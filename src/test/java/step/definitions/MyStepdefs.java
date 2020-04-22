@@ -13,11 +13,13 @@ public class MyStepdefs {
     public void pageIsShowing() {
 
         System.out.println(("-----development branch ------ "));
+        System.out.println(("-----new Architect team member ------ "));
     }
 
     @When("^clicking button$")
     public void clickingButton() {
         System.out.println(("-----development branch Architect ------ "));
+        System.out.println(("-----new Architect team member ------ "));
     }
 
     @Then("i log in")
