@@ -10,12 +10,14 @@ public class LogInSteps {
     public void userIsOnNetBankingLandingPage() {
 
         System.out.println("-----GitStuff ------ ");
+        System.out.println(("-----Architect framework rebuilding ------ "));
     }
 
     @When("User log into the application with user name and password")
     public void userLogIntoTheApplicationWithUserNameAndPassword() {
 
         System.out.println("-----123 GitStaff------ ");
+        System.out.println(("-----Architect framework rebuilding ------ "));
 
     }
 
@@ -23,6 +25,8 @@ public class LogInSteps {
     public void homePageIsPopulated() {
 
         System.out.println("-----Test 123...------ ");
+
+        System.out.println(("-----Architect framework rebuilding ------ "));
 
     }
 

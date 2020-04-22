@@ -11,14 +11,19 @@ public class MyStepdefs {
 
     @Given("^page is showing$")
     public void pageIsShowing() {
+
+        System.out.println(("-----development branch ------ "));
     }
 
     @When("^clicking button$")
     public void clickingButton() {
+        System.out.println(("-----development branch Architect ------ "));
     }
 
     @Then("i log in")
     public void iLogIn() {
+
+        System.out.println(("-----Architect framework rebuilding ------ "));
     }
 
 
